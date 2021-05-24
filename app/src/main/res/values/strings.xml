@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Form Biodata</string>
+    <string name="Memasak">Memasak</string>
+    <string name="Indonesia">Indonesia</string>
+    <string name="Inggris">Inggris</string>
+    <string name="Arab">Arab</string>
+    <string name="Jepang">Jepang</string>
+    <string name="Korea">Korea</string>
+    <string name="Jerman">Jerman</string>
+    <string name="Lainnya">Lainnya</string>
+
+    <string-array name="status">
+        <item>Pilih</item>
+        <item>Belum Menikah</item>
+        <item>Menikah</item>
+        <item>Cerai Hidup</item>
+        <item>Cerai Mati</item>
+    </string-array>
+</resources>
